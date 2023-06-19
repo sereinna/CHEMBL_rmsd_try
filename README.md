@@ -1,6 +1,6 @@
 # CHEMBL_rmsd_try  
 
-a way to calculate CHEMBL's rmsd  
+a way to calculate CHEMBL's rmse  
 
 rmsd_spec.py：spec数据处理（blind同理）   
 
