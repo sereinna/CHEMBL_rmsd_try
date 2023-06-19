@@ -8,6 +8,6 @@ picture.py：作图
 
 results_spec.xls：spec数据结果  
 
-results_blind.xls：binld数据结果(待补充) 
+results_blind.csv：binld数据结果(待补充) 
 
 fix_sdf.py:错误结构修复（暂时未使用） 
