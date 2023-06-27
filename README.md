@@ -1,6 +1,6 @@
-# CHEMBL_rmsd_try  
+# CHEMBL_rmse_try  
 
-a way to calculate CHEMBL's rmse  
+a way to calculate CHEMBL's rmse / zhidian  
 
 自己写的代码命名为calculate_distances
 
