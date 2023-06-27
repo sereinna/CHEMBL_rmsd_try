@@ -2,16 +2,13 @@
 
 a way to calculate CHEMBL's rmse  
 
-rmsd_spec.py：spec数据处理（blind同理）   
+自己写的代码命名为calculate_distances
 
-rmsd_spec_weight.py：                 spec加权数据处理（blind同理）  
+rdMolTransforms.ComputeCentroid方法命名为compute_distances
 
-picture.py：                          作图  
+修改后带权重的算法命名为calculate_distances_weight
 
-results_spec.xls：                    spec数据结果  
+zhidian为计算代码，picture为作图代码 
 
-results_spec_weight.xls：             spec加权数据结果(待补充)   
 
-results_blind.csv：                   binld数据结果(待补充) 
 
-fix_sdf.py:                           错误结构修复（暂时未使用） 
