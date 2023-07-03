@@ -10,5 +10,5 @@ rdMolTransforms.ComputeCentroid方法命名为compute_distances
 
 zhidian为计算代码，picture为作图代码 
 
-
+rmse为新算法
 
